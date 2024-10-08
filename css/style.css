@@ -2,9 +2,9 @@ td, th {
 	border: 10px solid;
   }
   
-  img {
-	  width: 100px
-	  height: 100px
-  }
+img {
+  width: 150px; 
+  height: auto;
+}
   
   
