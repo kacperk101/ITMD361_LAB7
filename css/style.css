@@ -1,4 +1,10 @@
 td, th {
-	border: 1px solid;
+	border: 10px solid;
   }
+  
+  img {
+	  width: 100px
+	  height: 100px
+  }
+  
   
