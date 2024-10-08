@@ -1,5 +1,5 @@
 td, th {
-	border: 10px solid;
+	border: 3px solid;
   }
   
 table img {
@@ -10,5 +10,10 @@ table img {
 body {
 	font-family: Calibri, sans-serif;
 }
+
+h1 {
+	text-align: center;
+}
+
   
   
