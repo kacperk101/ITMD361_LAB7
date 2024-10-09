@@ -3,6 +3,7 @@ td, th {
 	padding: 10px; 
     text-align: center; 
 	font-weight: bold;
+	
   }
   
 table img {
@@ -12,12 +13,10 @@ table img {
 
 body {
 	font-family: Calibri, sans-serif;
-    background-image: url('/images/background.jpg'); 
     background-size: cover; 
-    background-repeat: no-repeat;
     background-position: center; 
     margin: 0; 
-    height: 100vh; 
+	background-color: 
 }
 
 h1 {
@@ -30,7 +29,13 @@ table {
     border: 1px solid black;
     border-collapse: collapse;
 	width: 50%;
+	border-radius: 15px; 
+    overflow: hidden; 
     }
+	
+th {
+font-size: 20px
+}
 
   
   
