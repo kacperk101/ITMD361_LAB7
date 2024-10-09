@@ -1,5 +1,7 @@
 td, th {
 	border: 3px solid;
+	padding: 10px; 
+    text-align: center; 
   }
   
 table img {
@@ -13,16 +15,14 @@ body {
 
 h1 {
 	text-align: center;
-	font-size: 30px;
+	font-size: 30px;	
 }
 
- body {
-	text-align: center;
-    height: 100vh; 
-    margin: 0; 
-    display: flex; 
-    justify-content: center; 
-    align-items: center; 
-}
+table {
+    margin: auto; 
+    border: 1px solid black;
+    border-collapse: collapse;
+    }
+
   
   
