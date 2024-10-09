@@ -12,10 +12,12 @@ table img {
 
 body {
 	font-family: Calibri, sans-serif;
-	background-image: url('images/background.jpg'); 
+    background-image: url('/images/background.jpg'); 
     background-size: cover; 
     background-repeat: no-repeat;
-	margin-top: 20px;
+    background-position: center; 
+    margin: 0; 
+    height: 100vh; 
 }
 
 h1 {
