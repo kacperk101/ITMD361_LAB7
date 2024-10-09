@@ -1,11 +1,4 @@
-td, th {
-	border: 3px solid;
-	padding: 10px; 
-    text-align: center; 
-	font-weight: bold;
-	
-  }
-  
+
 table img {
   width: 150px; 
   height: auto;
@@ -62,7 +55,7 @@ table {
 }
 
 .styled-table td {
-    background-color: #ffffff; 
+    background-color: #c3c0c0; 
     border: 1px solid #ddd; 
     padding: 10px; 
     text-align: center;
@@ -73,5 +66,8 @@ table {
     font-weight: bold; 
 }
 
+.footer {
+    font-size: 15px; 
+}
   
   
